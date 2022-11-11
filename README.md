@@ -1,7 +1,7 @@
 ﻿# MandelPlot : Mandelbrot and Julia Sets Image Generation Library
 
 **This library can be used to visualize the Mandelbrot and Julia sets. It is able to generate and save high resolution images of any part of the Mandelbrot set as well as any part of any chosen Julia set.**
-For more information about these sets, you visit their respective Wikipedia pages : [Mandelbrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set) ; [Julia Set](https://en.wikipedia.org/wiki/Julia_set)
+For more information about these sets, you can visit their respective Wikipedia pages : [Mandelbrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set) ; [Julia Set](https://en.wikipedia.org/wiki/Julia_set)
 
 ## Definitions of the Mandelbrot and Julia sets
 The **Mandelbrot set** is the set of all complex numbers c such as the sequence z_n defined as : z_0 = 0 ; z_(n+1) = (z_n)^2 + c is bounded.
